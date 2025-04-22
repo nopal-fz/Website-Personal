@@ -56,7 +56,7 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' });
 // typed js
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Data Scientist', 'Data Analyst', 'Machine Learning Engineer'],
+    strings: ['Data Scientist', 'Machine Learning Engineer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
